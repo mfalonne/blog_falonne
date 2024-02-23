@@ -1,0 +1,14 @@
+{
+    "name": "utilisateur/blog_falonne",
+    "autoload": {
+        "psr-4": {
+            "Utilisateur\\BlogFalonne\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "fmtDev"
+        }
+    ],
+    "require": {}
+}
